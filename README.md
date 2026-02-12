@@ -1,8 +1,4 @@
 # City Library Digital Management System
-Java Assignment 4 - ENCS201 / ENCA203 / ENBC205
-
-**Student:** Umang Gupta  
-**Roll No:** 2401010001
 
 ## Files
 - Book.java
